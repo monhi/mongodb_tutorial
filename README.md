@@ -21,6 +21,6 @@ This link gives a good tutorial about how to use MongoDB for beginners.
 
 <a href="https://robomongo.org/">RoboMongo.org</a>
 
-This is a link to RoboMongo web page which you can install robo3T to have a GUI when working with MongoDB.
+This is a link to RoboMongo website which you can install robo3T to have a GUI when working with MongoDB.
 
 
