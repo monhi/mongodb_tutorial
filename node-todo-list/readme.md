@@ -1,4 +1,4 @@
-## MongoDB CRUD operations using Node.js and express web applicaion platform
+## MongoDB CRUD operations using Node.js and express web application platform
 
 This is a sample project to work with mongodb, node.js and express. 
 It manages a TODO list by using above technologies.
