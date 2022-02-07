@@ -16,20 +16,20 @@ Today, it is very common to use mongoDB as a nosql database in web based project
 
 ## Tutorial to use MongoDB for beginners
 
-<a href="https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/">Link 1</a>
+<a target="_blank" href="https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/">Link 1</a>
 
 This link gives a good tutorial about how to use MongoDB for beginners.
 
 
 ## Robomongo link for download
 
-<a href="https://robomongo.org/">RoboMongo.org</a>
+<a target="_blank" href="https://robomongo.org/">RoboMongo.org</a>
 
 This is a link to RoboMongo website which you can install robo3T to have a GUI when working with MongoDB.
 
 ## Node.js todo list using MongoDB
 
-<a href="https://github.com/monhi/mongodb_tutorial/tree/main/node-todo-list">node-todo-list</a>
+<a  target="_blank" href="https://github.com/monhi/mongodb_tutorial/tree/main/node-todo-list">node-todo-list</a>
 
 This project is directly copied form another website to my github page. 
 It shows how to use MongoDB with Node.js to do CRUD operations. 
@@ -37,9 +37,9 @@ Frontend is developed by HTML and CSS and EJS.
 
 ## JWT and mongo for Authentication
 
-<a href="https://github.com/Olanetsoft/jwt-project">Project in Github</a>
+<a  target="_blank" href="https://github.com/Olanetsoft/jwt-project">Project in Github</a>
 
-<a href="https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/">How to Build an Authentication API with JWT Token in Node.js</a>
+<a  target="_blank" href="https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/">How to Build an Authentication API with JWT Token in Node.js</a>
 
 
 This is a project based that uses JWT and token to keep track of user. but beautiful feature of this project is that it uses mongodb as database. 
