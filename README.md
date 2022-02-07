@@ -29,3 +29,15 @@ This is a link to RoboMongo website which you can install robo3T to have a GUI w
 This project is directly copied form another website to my github page. 
 It shows how to use MongoDB with Node.js to do CRUD operations. 
 Frontend is developed by HTML and CSS and EJS.
+
+## JWT and mongo for Authentication
+
+<a href="https://github.com/Olanetsoft/jwt-project">Project in Github</a>
+
+<a href="https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/">How to Build an Authentication API with JWT Token in Node.js</a>
+
+
+This is a project based that uses JWT and token to keep track of user. but beautiful feature of this project is that it uses mongodb as database. 
+Thus I put it here
+
+
