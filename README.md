@@ -16,7 +16,7 @@ Today, it is very common to use mongoDB as a nosql database in web based project
 
 ## Tutorial to use MongoDB for beginners
 
-<a target="_blank" href="https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/">Link 1</a>
+<a href="https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/" target="_blank">Link 1</a>
 
 This link gives a good tutorial about how to use MongoDB for beginners.
 
