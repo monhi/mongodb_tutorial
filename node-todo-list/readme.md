@@ -10,6 +10,6 @@ I copy it from following project:
 
 <a href="https://medium.com/@diogo.fg.pinheiro/simple-to-do-list-app-with-node-js-and-mongodb-chapter-2-3780a1c5b039"> Link 2 </a>
 
-In this project I use local MongoDB database. But in original project, it uses a cloud based one to manage CRUD operations. Both is possible and it just needs to keep the link to database in .env file that is placed in root folder.
+In this project I use local MongoDB database. But in original project, it uses a cloud based one to manage CRUD operations. Both are possible and it just needs to change the link to database in .env file that is placed in root folder.
 
 
