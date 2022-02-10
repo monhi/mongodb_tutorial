@@ -21,7 +21,7 @@ Today, it is very common to use mongoDB as a nosql database in web based project
 This link gives a good tutorial about how to use MongoDB for beginners.
 
 
-## Robomongo link for download
+## RoboMongo link for download
 
 <a target="_blank" href="https://robomongo.org/">RoboMongo.org</a>
 
@@ -42,7 +42,7 @@ Frontend is developed by HTML and CSS and EJS.
 <a  target="_blank" href="https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/">How to Build an Authentication API with JWT Token in Node.js</a>
 
 
-This is a project based that uses JWT and token to keep track of user. but beautiful feature of this project is that it uses mongodb as database. 
+This is a project based on Node.js that uses JWT and token to keep track of users. but beautiful feature of this project is that it uses MongoDB as database. 
 Thus I put it here
 
 
